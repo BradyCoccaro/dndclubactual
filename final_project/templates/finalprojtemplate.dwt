@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cox Mill D and D Club</title>
+<!-- TemplateEndEditable -->
+<link href="../css/dndproj.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+
+</head>
+
+<body>
+	
+<div id="container">
+  <nav>
+    <ul>
+      <li><a href="../pages/index.html">Home</a></li>
+	  <li><a href="../pages/about.html">About</a></li>
+	  <li><a href="../pages/links.html">Links</a></li>
+	  <li><a href="../pages/contact.html">Contact</a></li>
+    </ul>
+  </nav>
+	<header> </header>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="bulkofpage" -->
+	
+  <h2><p class="subheader">placeholder</p></h2>
+	<article><p>placeholder</p></article>
+	<footer></footer>
+	<!-- TemplateEndEditable -->
+</div>
+	
+	
+	
+</body>
+</html>

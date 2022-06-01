@@ -1,0 +1,473 @@
+@charset "UTF-8";
+@import url("../webfonts/BreatheFireIii_PKLOB/stylesheet.css");
+@import url("../webfonts/MetalVengeance_0WqV9/stylesheet.css");
+@import url("../webfonts/Draconis_JRw6B/stylesheet.css");
+@import url("../webfonts/BlackmoonQuest_PKq5g/stylesheet.css");
+#container{
+	background-color: #ffffff;
+	height: 2000px;
+	width:1500px;
+	margin: auto;
+	
+}
+body{
+background-color:#272727;
+}
+header{
+    background-color: #630199;
+    height: 250px;
+	width: 1500px;
+    background-image: url("../assets/images/finalprojheader.png");
+    background-repeat: no-repeat;
+    background-size:1400px;
+    background-position: 100px 50px;
+}
+nav{
+    height: 75px;
+    width: 1500px;
+    background-color: #069999;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    background-image: url(../assets/images/navheadertest.png);
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    margin-right: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: lightgrey;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: large;
+    color: #272727;
+}
+ul{
+	margin-top: 4.5px;
+	margin-left: 405px;
+
+}
+footer{
+	height: 100px;
+	width: 1500;
+	background-color: #069999;
+	margin-top: 300px
+	
+}
+nav a:link{
+    text-decoration: none;
+    color: #272727;
+    font-family: "BlackmoonQuest PKq5g";
+}
+nav a:visited{
+    text-decoration: none;
+    color: #630199;
+    font-family: "BlackmoonQuest PKq5g";
+}
+nav a:hover{
+    text-decoration: none;
+    color: #069999;
+    font-family: "BlackmoonQuest PKq5g";
+}
+nav a:active{
+    text-decoration: none;
+    color: #069999;
+    font-weight: bold;
+    font-family: "BlackmoonQuest PKq5g";
+}
+h2{
+    background-color: #069999;
+    width: 1250px;
+    border-radius: 16px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    height: 100px;
+}
+article{
+    width: 1000px;
+    height: 400px;
+    margin-top: 75px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    
+}
+.subheader {
+    text-align: center;
+    padding-top: 17px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    font-size: 50px;
+    font-family: "Draconis JRw6B";
+}
+#container article p {
+    color: #000000;
+}
+.imagelinkdiscord{
+    height: 614px;
+    width: 1000px;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-bottom: -50px;
+    background-color: #069999;
+}
+p{
+font-size: 30px
+
+}
+.imagelinkamz{
+    width: 1000px;
+    height: 419px;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 250px;
+    margin-left: 250px;
+    background-color: #630199;
+}
+.productdiv{
+	height: 1037px;
+	width: 302px;
+	float: left;
+	margin-left: 45px;
+	background-color: #069999;
+	
+}
+.productcontainer{
+	margin: auto;
+	height: 1278px;
+	width: 1250px;
+}
+.imgproducts{
+	height: 302px;
+	width: 302px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: darkgray;
+}
+.headerbottomabout{
+	background-color: #069999;
+    width: 1250px;
+    border-radius: 16px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    height: 220px;
+}
+.linkinlineword{
+    color: #630199;
+    text-decoration: none;
+}
+.productdivmid{
+	height: 692px;
+	width: 302px;
+	float: left;
+	margin-left: 45px;
+	background-color: #069999}
+#aboutcontainer{
+	background-color: #ffffff;
+	height: 2200px;
+	width:1500px;
+	margin: auto;
+}
+.aboutimage{
+	width: 1012px; 
+	height: 410px;
+}
+.aboutimagediv{
+	margin-top: 280px;
+	margin-left: 250px;
+	width: 400;
+	height: 350;
+	float: left;
+}
+.h2indexsmol{
+	margin-top: -50px;
+}
+.cooperimg{
+	float: right; 
+	margin-right: 350px;
+	height: 300px;
+	width: 250px;
+	
+}
+.coopertext{
+	float: right;
+	width: 500px;
+	height: 300px;
+}
+.indexfooter{ margin-top: 400px}
+#indexcontainer{
+	background-color: #ffffff;
+	height: 2000px;
+	width:1500px;
+	margin: auto;}
+#aboutclubcontainer{
+	background-color: #ffffff;
+	height: 2050px;
+	width: 1500px;
+	margin: auto;
+}
+.aboutclubfooter{
+	margin-top: 1025px
+}
+#aboutdndcontainer{
+	background-color: #ffffff;
+	height:  2200px;
+	width: 1500px;
+	margin: auto;
+}
+.aboutdndfooter{margin-top: 500px}
+.clubhistoryfooter{margin-top: 1075px}
+#contactcontainer{
+	background-color: #ffffff;
+	height:  2100px;
+	width: 1500px;
+	margin: auto;
+}
+.contactfooter{margin-top: 1585px}
+.linksfooter{margin-top: 0px}
+.merchfooter{margin-top: 170px}
+
+@media screen and (max-width:414px){
+	nav{
+    width: 414px;
+    background-image: url(../assets/images/navsmol.png);
+	margin-left: -8px
+	}
+
+	header{
+    width: 414px;
+    background-image: url(../assets/images/finalprojheadersmol.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: 45px 55px;
+	}
+	#container{
+		width: 414px;
+		height: 3500px
+	}
+	h2{
+    width: 350px;
+    height: 215px;
+	}
+	article{
+		width: 414px;
+		text-align: center;
+		
+	}
+	footer{
+		width: 414px;
+		margin-top: 470px
+	}
+	ul{
+		margin-left: 5px;
+		
+	}
+	nav a:link{
+    text-decoration: none;
+    color: #272727;
+    font-family: "BlackmoonQuest PKq5g";
+	text-align: center;
+}
+nav a:visited{
+    text-decoration: none;
+    color: #630199;
+    font-family: "BlackmoonQuest PKq5g";
+	text-align: center;
+}
+nav a:hover{
+    text-decoration: none;
+    color: #069999;
+    font-family: "BlackmoonQuest PKq5g";
+	text-align: center;
+}
+nav a:active{
+    text-decoration: none;
+    color: #069999;
+    font-weight: bold;
+	font-family: "BlackmoonQuest PKq5g";
+	text-align: center;
+	}
+	
+li{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    margin-right: 20px;
+    padding-left: 17px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: large;
+    color: #272727;
+}
+ul{
+	margin-top: 4.5px;
+	margin-left: 405px;
+
+}
+	.h2indexsmol{
+		height: 100px;
+		width: 350px;
+		margin-top: 400px
+	}
+	
+footer{
+	height: 100px;
+	width: 1500;
+	background-color: #069999;
+	margin-top: 585px
+	
+}
+	.headerbottomabout{
+	 width: 350px;
+	height: 580px;
+	margin-top: 1550px;
+		
+	}
+	#aboutcontainer{
+	background-color: #ffffff;
+	height: 3325px;
+	width:414px;
+	margin: auto;
+	}
+	.aboutimage{
+		width: 414px;
+		height: 400px;
+		float: right;
+	}
+	.aboutimagediv{
+		margin-top: 1100px;
+		margin-left:0px;
+		width: 414px;
+		height: 400px;
+	}
+	.cooperimg{
+		margin-right: 85px; 
+		height: 300px;
+		width: 250px; 
+	}
+	.coopertext{
+		float: left;
+		width: 414px;
+		height: 300px;
+		text-align: center;
+	}
+	.indexfooter{margin-top:-15px }
+	#indexcontainer{
+		background-color: #ffffff;
+	height: 2000px;
+	width:414px;
+	margin: auto;}
+	#aboutclubcontainer{
+	background-color: #ffffff;
+	height: 3700px;
+	width: 414px;
+	margin: auto;	
+	}
+	.aboutclubfooter{
+		margin-top: 2560px;
+	}
+	#aboutdndcontainer{
+	background-color: #ffffff;
+	height:  3900px;
+	width: 414px;
+	margin: auto;
+}
+.aboutdndfooter{margin-top: 1670px}
+.clubhistoryfooter{margin-top: 1360px}
+#contactcontainer{background-color: #ffffff;
+	height:  3700px;
+	width: 414px;
+	margin: auto;}
+.contactfooter{margin-top: 3000px}
+.linksfooter{margin-top: 2050px}
+.merchfooter{margin-top: 1527px}
+.subheaderdndtop{
+    text-align: center;
+    padding-top: 45px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    font-size: 50px;
+	font-family: "Draconis JRw6B";
+	}
+	.subheaderrules{
+	text-align: center;
+    padding-top: 50px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    font-size: 50px;
+	font-family: "Draconis JRw6B";
+	margin-top: 500px
+	}
+	.historyheader{
+	text-align: center;
+    padding-top: 70px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    font-size: 50px;
+	font-family: "Draconis JRw6B";
+	}
+	.imagelinkdiscord{
+    height: 200px;
+    width: 414px;
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: -50px;
+    background-color: #069999;
+}
+	.smoldiscordimg{
+		width: 414px;
+	}
+	.imagelinkamz{
+    width: 414px;
+    height: 170px;
+    margin-top: 50px; 
+    margin-bottom: 250px;
+    margin-left: 0px;
+    background-color: #630199;
+}
+	.separater{
+		margin-top: 150px;
+		height: 20px;
+	}
+	.productdiv{
+	height: 1037px;
+	width: 302px;
+	margin-left: 125px;
+	background-color: #069999;
+	}
+	.productdivmid{
+	height: 692px;
+	width: 302px;
+	margin-left: 125px;
+	background-color: #069999
+	}
+	.productcontainer{
+	margin: -70px;
+	height: 1278px;
+	width: 414px;
+}
+}

@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact</title>
+<!-- TemplateEndEditable -->
+<link href="../css/dndproj.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	
+<div id="container">
+  <nav>
+    <ul>
+      <li><a href="../index.html">Home</a></li>
+	  <li><a href="../about.html">About</a></li>
+	  <li><a href="../links.html">Links</a></li>
+	  <li><a href="../contact.html">Contact</a></li>
+    </ul>
+  </nav>
+	<header> </header>
+	
+	<h2><p class="subheader">CONTACT PAGE</p></h2>
+	
+  <p style="text-align: center;margin-bottom:">Contact the laeders of DnD club here.</p>
+	
+	
+	<div style="float: right; width: 400px; margin-right: 350px; height: 300px;width: 250px; background-image:url(../assets/images/download.png")>Content for New div Tag Goes Here</div>
+	<div style="float: right; width: 500px">Content for New div Tag Goes Here</div>
+	<article>
+	</article>
+	<footer style="margin-top: 980px"></footer>
+	
+</div>
+	
+	
+	
+</body>
+</html>
